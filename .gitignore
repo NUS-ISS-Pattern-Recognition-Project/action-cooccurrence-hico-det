@@ -1,0 +1,7 @@
+
+# IDEs and editors
+.idea/*
+
+# Files
+data_symlinks/*
+others/*
